@@ -79,11 +79,9 @@
 
 9. Параллельное выполнение сборок и тестов.
 
-![1](https://github.com/Ivan-Shkutov/microservices_03_approaches/blob/main/1.png)
-
+<img width="910" height="761" alt="image" src="https://github.com/user-attachments/assets/8dc45464-274a-4617-8822-1cee99799666" />
 
  - - - - - - - - - - - - - - - - 
-
 
 
 ### Задача 2: Логи
@@ -156,13 +154,10 @@
 
         - Управление доступом через роли и права (RBAC).
 
+<img width="903" height="421" alt="image" src="https://github.com/user-attachments/assets/4f89abdf-6029-4ed5-9fc0-957fe902de82" />
 
-![2](https://github.com/Ivan-Shkutov/microservices_03_approaches/blob/main/2.png)
 
  - - - - - - - - - - - - - - - - 
-
-
-
 
 
 
@@ -222,7 +217,8 @@
   2. Возможность предоставлять доступ разработчикам с разными уровнями прав.
      
 
-![3](https://github.com/Ivan-Shkutov/microservices_03_approaches/blob/main/3.png)
+<img width="946" height="462" alt="image" src="https://github.com/user-attachments/assets/33d1af29-4660-4668-bdeb-20b45bb94bab" />
+
 
  - - - - - - - - - - - - - - - - 
 
